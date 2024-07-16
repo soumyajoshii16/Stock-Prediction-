@@ -21,3 +21,8 @@ techniques to extract meaningful insights from raw stock data, enhancing the pre
 
 5. User-Friendly Interface: Developed a user-friendly interface or API for easy integration with trading platforms or investment tools, making our predictions accessible to a wider 
 audience.
+
+![stock1](https://github.com/user-attachments/assets/1d5a7cbb-563b-4500-baba-3bdee7a0a2e0)
+
+
+![stock2](https://github.com/user-attachments/assets/19586433-b516-4531-aa0e-06f87f27aec3)
